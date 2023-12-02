@@ -1,0 +1,4 @@
+﻿interface IMenu
+{
+    void Run();
+}
